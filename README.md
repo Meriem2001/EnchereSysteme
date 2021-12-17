@@ -1,4 +1,6 @@
 # EnchereSysteme
+projet de gestion d'une enchere cree par Meriem Ibrahim et Mohammed Moetez Kraiem
+
 les commandes d'execution sont :
 
 pour connecter :LOGIN#nom
